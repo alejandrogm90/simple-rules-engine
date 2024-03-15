@@ -31,7 +31,7 @@ You need install first:
 - Go to main project at [project-url]
 - Clone the repo:
 ```shell
-git clone https://github.com/alejandrogm90/coin-comparator.git
+git clone https://github.com/alejandrogm90/simple-rules-engine.git
 ```
 
 - Install all requirements:
@@ -62,7 +62,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## License
 
-Distributed under the License. See `LICENSE.txt` for more information.
+Distributed under the License. See [`LICENSE`][license-url] for more information.
 
 ## Contact
 
@@ -85,21 +85,21 @@ pipenv run python -m unittest test/utils/test_common_functions.py
 -->
 
 [version-shield]: https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge
-[contributors-shield]: https://img.shields.io/github/contributors/alejandrogm90/coin-comparator.svg?style=for-the-badge
-[forks-shield]: https://img.shields.io/github/forks/alejandrogm90/coin-comparator.svg?style=for-the-badge
-[stars-shield]: https://img.shields.io/github/stars/alejandrogm90/coin-comparator.svg?style=for-the-badge
-[issues-shield]: https://img.shields.io/github/issues/alejandrogm90/coin-comparator.svg?style=for-the-badge
-[license-shield]: https://img.shields.io/github/license/alejandrogm90/coin-comparator.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/alejandrogm90/simple-rules-engine.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/alejandrogm90/simple-rules-engine.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/alejandrogm90/simple-rules-engine.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/alejandrogm90/simple-rules-engine.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/alejandrogm90/simple-rules-engine.svg?style=for-the-badge
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [python-shield]: https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white
 
 [profile-url]: https://github.com/alejandrogm90
-[project-url]: https://github.com/alejandrogm90/coin-comparator/
-[wiki-url]: https://github.com/alejandrogm90/coin-comparator/wiki
-[contributors-url]: https://github.com/alejandrogm90/coin-comparator/graphs/contributors
-[forks-url]: https://github.com/alejandrogm90/coin-comparator/network/members
-[stars-url]: https://github.com/alejandrogm90/coin-comparator/stargazers
-[issues-url]: https://github.com/alejandrogm90/coin-comparator/issues
-[license-url]: https://github.com/alejandrogm90/coin-comparator/blob/master/LICENSE.txt
+[project-url]: https://github.com/alejandrogm90/simple-rules-engine/
+[wiki-url]: https://github.com/alejandrogm90/simple-rules-engine/wiki
+[contributors-url]: https://github.com/alejandrogm90/simple-rules-engine/graphs/contributors
+[forks-url]: https://github.com/alejandrogm90/simple-rules-engine/network/members
+[stars-url]: https://github.com/alejandrogm90/simple-rules-engine/stargazers
+[issues-url]: https://github.com/alejandrogm90/simple-rules-engine/issues
+[license-url]: https://github.com/alejandrogm90/simple-rules-engine/blob/master/LICENSE
 [linkedin-url]: https://www.linkedin.com/in/alejandro-g-762869129/
 [python-url]: https://www.python.org/
